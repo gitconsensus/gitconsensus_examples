@@ -1,8 +1,3 @@
 # gitconsensus_examples
 
-
-** Democracy
-** Meritocracy
-** Oligarchy
-** Anarchy
-** Autocracy
+This repository contains example configurations for GitConsensus.
